@@ -10,7 +10,9 @@ For the datafolio, presentation, and video presentation please [click here](http
 
 
 
+![Daily News Headline for Stock Market Prediction](https://user-images.githubusercontent.com/92898110/182059485-c6ae3b19-7240-4335-aad9-939e548a0bc0.png)
 
+![wordcloud (1)](https://user-images.githubusercontent.com/92898110/182059496-a9e19637-a5aa-4f6d-b52e-0d1748b8d58a.png)
 
 ## Questions
 
